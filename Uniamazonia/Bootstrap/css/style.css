@@ -1,0 +1,23 @@
+.container{
+    background-color: red;
+}
+
+#uno{
+    height: 80vh;
+}
+
+#dos{
+    height: 40vh;
+}
+
+#tres{
+    height: 100vh;
+}
+
+.row{
+    border: solid gray;
+}
+
+.col{
+    border: solid gray;
+}
